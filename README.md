@@ -6,4 +6,5 @@ Getting to know the design patterns with Typecript and practicing with small exa
 ## Tech
 
 Design patterns:
-- [Interface Segregator Interface](https://github.com/Nahuelluca20/design-patterns-typescript/blob/main/InterfaceSegregationPrinciple.ts)
+- [Interface Segregator Interface](https://github.com/Nahuelluca20/design-patterns-typescript/tree/main/InterfaceSegregationPrinciple)
+- [Decorator Pattern](https://github.com/Nahuelluca20/design-patterns-typescript/tree/main/DecoratorPattern)
