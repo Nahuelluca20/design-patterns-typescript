@@ -5,5 +5,5 @@ Getting to know the design patterns with Typecript and practicing with small exa
 
 ## Design patterns
 
-- [Interface Segregator Interface](https://github.com/Nahuelluca20/design-patterns-typescript/tree/main/InterfaceSegregationPrinciple)
-- [Decorator Pattern](https://github.com/Nahuelluca20/design-patterns-typescript/tree/main/DecoratorPattern)
+- [Interface Segregator Interface](https://github.com/Nahuelluca20/design-patterns-typescript/blob/main/InterfaceSegregationPrinciple/InterfaceSegregationPrinciple.md)
+- [Decorator Pattern](https://github.com/Nahuelluca20/design-patterns-typescript/blob/main/DecoratorPattern/DecoratorPattern.md)
